@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Oct 15 11:11:14 2020
-
 @author: Arezoo Alizadeh
 """
 
